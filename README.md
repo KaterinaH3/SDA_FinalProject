@@ -5,3 +5,4 @@ in this case it was testing of demo version of e-shop.
 
 
 Project is processed in the consequent materials and files.
+
